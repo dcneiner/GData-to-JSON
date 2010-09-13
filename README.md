@@ -4,7 +4,7 @@ This is something I patched together because I needed a simple exporter from Goo
 
 ### Setup
 
-Copy `events-importer/config.sample.php` to `events-importer/config.php` and edit it to provide your credentials for Google Docs. _(Note, do not use this method to access other peoples account. Google provides a better Authentication process for those users so you don't need to ask for their credentials.)_
+Copy `events-importer/config.sample.php` to `events-importer/config.php` and edit it to provide your credentials for Google Docs. _(Note, do not use this method to access other people's accounts. Google provides an authentication process for those users so you don't need to ask for their credentials.)_
 
 ### Use
 
